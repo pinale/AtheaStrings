@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntheaChallenges", "AntheaChallenges\AntheaChallenges.csproj", "{4A12D501-2A05-4269-B9FE-89540216B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntheaChallengesTests", "AntheaChallengesTests\AntheaChallengesTests.csproj", "{D197291E-4DE2-4FB1-BA5B-994E61BBBB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A12D501-2A05-4269-B9FE-89540216B93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A12D501-2A05-4269-B9FE-89540216B93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A12D501-2A05-4269-B9FE-89540216B93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A12D501-2A05-4269-B9FE-89540216B93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D197291E-4DE2-4FB1-BA5B-994E61BBBB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D197291E-4DE2-4FB1-BA5B-994E61BBBB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D197291E-4DE2-4FB1-BA5B-994E61BBBB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D197291E-4DE2-4FB1-BA5B-994E61BBBB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26B578F-9CEC-4558-AD09-FDA575B9E620}
+	EndGlobalSection
+EndGlobal
